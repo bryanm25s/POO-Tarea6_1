@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3AC1E-2F4D-4DD9-8BDD-BF958410DA2F}|DirectorioEmp.csproj|C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3AC1E-2F4D-4DD9-8BDD-BF958410DA2F}|DirectorioEmp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3AC1E-2F4D-4DD9-8BDD-BF958410DA2F}|DirectorioEmp.csproj|C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\clases\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3AC1E-2F4D-4DD9-8BDD-BF958410DA2F}|DirectorioEmp.csproj|solutionrelative:clases\\grado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3AC1E-2F4D-4DD9-8BDD-BF958410DA2F}|DirectorioEmp.csproj|c:\\github\\-poo-tarea6_1\\directorioemp\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3AC1E-2F4D-4DD9-8BDD-BF958410DA2F}|DirectorioEmp.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3AC1E-2F4D-4DD9-8BDD-BF958410DA2F}|DirectorioEmp.csproj|C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\clases\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3AC1E-2F4D-4DD9-8BDD-BF958410DA2F}|DirectorioEmp.csproj|solutionrelative:clases\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:19:01.334Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona.cs",
+              "ToolTip": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\Clases\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAywFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:27:48.341Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grado.cs",
+              "DocumentMoniker": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\Clases\\Grado.cs",
+              "RelativeDocumentMoniker": "Clases\\Grado.cs",
+              "ToolTip": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\Clases\\Grado.cs",
+              "RelativeToolTip": "Clases\\Grado.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:28:01.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\Clases\\Cargo.cs",
+              "RelativeDocumentMoniker": "Clases\\Cargo.cs",
+              "ToolTip": "C:\\GitHub\\-POO-Tarea6_1\\DirectorioEmp\\Clases\\Cargo.cs",
+              "RelativeToolTip": "Clases\\Cargo.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv0cAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:27:13.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\GitHub\-POO-Tarea6_1\DirectorioEmp\bin\Debug\DirectorioEmp.exe.config
+C:\GitHub\-POO-Tarea6_1\DirectorioEmp\bin\Debug\DirectorioEmp.exe
+C:\GitHub\-POO-Tarea6_1\DirectorioEmp\bin\Debug\DirectorioEmp.pdb
+C:\GitHub\-POO-Tarea6_1\DirectorioEmp\obj\Debug\DirectorioEmp.csproj.AssemblyReference.cache
+C:\GitHub\-POO-Tarea6_1\DirectorioEmp\obj\Debug\DirectorioEmp.csproj.CoreCompileInputs.cache
+C:\GitHub\-POO-Tarea6_1\DirectorioEmp\obj\Debug\DirectorioEmp.exe
+C:\GitHub\-POO-Tarea6_1\DirectorioEmp\obj\Debug\DirectorioEmp.pdb
+C:\GitHub\-POO-Tarea6_1\DirectorioEmp\obj\Debug\DirectorioEmp.exe.config
